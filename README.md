@@ -12,12 +12,12 @@ Studying HTML, CSS, and Bootstrap with Codingnoona Course
     |     ├── image.jpg
     |     └── audio.mp3
     |
-    ├── Book Review 2023
+    ├── book review 2023
     |     └── index.html       # basic html
-    ├── CSS selector
+    ├── css selector
     |     ├── index.html       # basic css
     |     └── style.css
-    ├── Position-flexbox
+    ├── position-flexbox
     |     ├── index.html
     |     └── style.css
     |
