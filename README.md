@@ -1,4 +1,4 @@
-# HTML-CSS Study
+# HTML-CSS
 
 Studying HTML, CSS, and Bootstrap with Codingnoona Course
 
