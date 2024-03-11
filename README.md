@@ -20,6 +20,9 @@ Studying HTML, CSS, and Bootstrap with Codingnoona Course
     ├── position-flexbox
     |     ├── index.html
     |     └── style.css
+    ├── media-query            # practice media-query
+    |     ├── index.html
+    |     └── style.css
     |
     ├── 1. GOOGLE
     |     ├── index.html
